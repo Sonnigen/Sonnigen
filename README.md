@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonnigen
 - 👀 I’m interested in Architecture
-- 🌱 I’m currently learning Java web
+- 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
